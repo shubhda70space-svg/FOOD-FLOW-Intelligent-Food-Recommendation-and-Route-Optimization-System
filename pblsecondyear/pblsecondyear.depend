@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1791438774 source:c:\users\shubh\desktop\pblsecondyeardsc\pblsecondyear\main.cpp
+	<iostream>
+	"registrationmodule.h"
+	"data.h"
+	"dining.h"
+
+1791438735 source:c:\users\shubh\desktop\pblsecondyeardsc\pblsecondyear\registrationmodule.cpp
+	<string>
+	<vector>
+
+1791438735 c:\users\shubh\desktop\pblsecondyeardsc\pblsecondyear\registrationmodule.h
+	<string>
+	<vector>
+
+1791313630 source:c:\users\shubh\desktop\pblsecondyeardsc\pblsecondyear\data.cpp
+	"data.h"
+
+1791313630 c:\users\shubh\desktop\pblsecondyeardsc\pblsecondyear\data.h
+	<string>
+	<vector>
+
+1791438479 source:c:\users\shubh\desktop\pblsecondyeardsc\pblsecondyear\dining.cpp
+	"dining.h"
+	<iostream>
+
+1791438434 source:c:\users\shubh\desktop\pblsecondyeardsc\pblsecondyear\graph.cpp
+	"graph.h"
+	<queue>
+	<limits>
+
+1791438409 c:\users\shubh\desktop\pblsecondyeardsc\pblsecondyear\graph.h
+	"data.h"
+	<vector>
+
+1791438457 c:\users\shubh\desktop\pblsecondyeardsc\pblsecondyear\dining.h
+	"data.h"
+	"graph.h"
+

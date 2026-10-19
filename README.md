@@ -4,7 +4,7 @@
 
 <p align="center">
 
-**Smart Takeaway • Smart Dine-In • Smart Delivery**
+**Smart Takeaway • Smart Dine-In • Smart Delivery system**
 
 *A C++ Data Structures & Algorithms based project for personalized food recommendations and route optimization.*
 
